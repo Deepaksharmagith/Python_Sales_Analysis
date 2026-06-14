@@ -1,3 +1,4 @@
 # Python_Sales_Analysis
 
-This is a Analysis project, made by Python - Analyze Diwali sales data to improve customer experience and sales.
+Performed an analysis project using Python to analyze Diwali sales data and improve customer experience and 
+sales. Conducted EDA, data collection, organization, cleaning, preparation, and data visualization techniques
